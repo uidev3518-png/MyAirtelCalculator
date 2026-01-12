@@ -1,0 +1,14 @@
+D:\dot net\prd2026\bin\Debug\net9.0\prd2026.exe
+D:\dot net\prd2026\bin\Debug\net9.0\prd2026.deps.json
+D:\dot net\prd2026\bin\Debug\net9.0\prd2026.runtimeconfig.json
+D:\dot net\prd2026\bin\Debug\net9.0\prd2026.dll
+D:\dot net\prd2026\bin\Debug\net9.0\prd2026.pdb
+D:\dot net\prd2026\obj\Debug\net9.0\prd2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\prd2026\obj\Debug\net9.0\prd2026.AssemblyInfoInputs.cache
+D:\dot net\prd2026\obj\Debug\net9.0\prd2026.AssemblyInfo.cs
+D:\dot net\prd2026\obj\Debug\net9.0\prd2026.csproj.CoreCompileInputs.cache
+D:\dot net\prd2026\obj\Debug\net9.0\prd2026.dll
+D:\dot net\prd2026\obj\Debug\net9.0\refint\prd2026.dll
+D:\dot net\prd2026\obj\Debug\net9.0\prd2026.pdb
+D:\dot net\prd2026\obj\Debug\net9.0\prd2026.genruntimeconfig.cache
+D:\dot net\prd2026\obj\Debug\net9.0\ref\prd2026.dll
